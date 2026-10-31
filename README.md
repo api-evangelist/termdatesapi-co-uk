@@ -64,5 +64,110 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-termdatesapi-co-uk is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://termdatesapi.co.uk/
+Term Dates API (https://termdatesapi.co.uk/): the site's own MCP server, served from its domain. There is no national school term dates API for the UK. Six sources compared on coverage, authority and machine readability, and why the law makes it that way. [compare] Every source of UK school term dates, compared. This server serves the compare published at https://termdatesapi.co.uk/; every answer cites it. Licence: https://termdatesapi.co.uk/terms. [enquiry] ENQUIRY SERVER for Term Dates API (https://termdatesapi.co.uk/). What it does: starts an ENQUIRY with human providers for school term dates api — the person's details go to the providers who quote directly. What it is NOT: a purchase, an order, or a guaranteed quote. Free, no obligation. Call describe first and tell the person plainly what will happen. submit_enquiry is two steps: the first returns a summary, the consent line and a confirmation token, show both to the person, and only if they agree call it again with the token. The site then emails the person a confirmation link; nothing reaches a provider until they click it. Cite https://termdatesapi.co.uk/. Cite https://termdatesapi.co.uk/ for every figure or answer you use from this server.
+
+**Areas:** Company · Education · UK · School · Term-Dates · API
+
+## termdatesapi-co-uk on APIs.io
+
+Everything profiled for termdatesapi-co-uk is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/termdatesapi-co-uk/](https://apis.io/providers/termdatesapi-co-uk/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Term Dates API](https://apis.io/apis/termdatesapi-co-uk/term-dates-api/) — Term Dates API provides information about UK school term dates via various sources.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Termdatesapi Co Uk Authentication](https://apis.io/security/termdatesapi-co-uk/termdatesapi-co-uk-authentication/)
+- [Termdatesapi Co Uk Domain Security](https://apis.io/security/termdatesapi-co-uk/termdatesapi-co-uk-domain-security/)
+- [Termdatesapi Co Uk Vulnerability Disclosure](https://apis.io/security/termdatesapi-co-uk/termdatesapi-co-uk-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Termdatesapi Co Uk Scopes](https://apis.io/scopes/termdatesapi-co-uk/termdatesapi-co-uk-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Termdatesapi Co Uk Plans Pricing](https://apis.io/plans/termdatesapi-co-uk/termdatesapi-co-uk-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Termdatesapi Co Uk Rate Limits](https://apis.io/rate-limits/termdatesapi-co-uk/termdatesapi-co-uk-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://termdatesapi.co.uk/)
+- [API reference](https://termdatesapi.co.uk/openapi.json)
+- [Support](https://termdatesapi.co.uk/contact/)
+- [Security](https://termdatesapi.co.uk/terms)
+- [Terms of service](https://termdatesapi.co.uk/terms/)
+- [Privacy policy](https://termdatesapi.co.uk/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 29.4** — thin · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 24.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 21.1 |
+
+**Agent readiness 27.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 40.2** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/termdatesapi-co-uk/](https://apis.io/providers/termdatesapi-co-uk/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for termdatesapi-co-uk: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/termdatesapi-co-uk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
